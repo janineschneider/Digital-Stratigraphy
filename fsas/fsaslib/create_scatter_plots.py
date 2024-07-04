@@ -10,8 +10,7 @@ import pandas as pd
 import re
 import time
 # own imports
-import functions_file
-import functions_os
+from . import functions_file, functions_os
 
 
 # function to get the file content of one file
@@ -679,7 +678,7 @@ def matplotlib_plot_from_dir(bool_separate: bool, bool_changes: bool, in_path: s
         if os.path.isdir(tmp_dir):
             input_paths.append(tmp_dir)
 
-    matplotlib_plot_bars(True, False, bool_separate, input_paths, out_path)
-    #matplotlib_plot_scatter(bool_separate, bool_changes, input_paths, out_path)
+    # matplotlib_plot_bars(True, False, bool_separate, input_paths, out_path)
+    matplotlib_plot_scatter(bool_separate, bool_changes, input_paths, out_path)
 
     return True

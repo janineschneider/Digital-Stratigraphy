@@ -8,9 +8,7 @@ import shutil
 import subprocess
 import sys
 # own imports
-import functions_file
-import functions_os
-import functions_output
+from . import functions_file, functions_os, functions_output
 
 
 # concat file path from path (xml) and given device path

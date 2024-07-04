@@ -8,8 +8,7 @@ import random
 from anytree import Node, RenderTree
 from lxml import etree
 # own imports
-import functions_file
-import functions_os
+from . import functions_file, functions_os
 
 
 # function to retrieve a list containing all ids of current nodes in anytree

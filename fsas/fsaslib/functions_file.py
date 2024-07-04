@@ -57,7 +57,7 @@ def get_files(in_path):
     return files
 
 
-# get sorted list of files
+# get sorted list of files with absolute file path
 def get_files_ext(in_path: str, extension: str):
     # init files list
     files = []

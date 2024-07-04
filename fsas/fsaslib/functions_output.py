@@ -6,7 +6,7 @@ import pytsk3
 import shutil
 import subprocess
 # own imports
-import functions_file
+from . import functions_file
 
 
 # function to get the partition size in bytes
