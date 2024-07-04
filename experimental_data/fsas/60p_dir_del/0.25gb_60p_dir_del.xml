@@ -1,0 +1,609 @@
+<device path="/dir/sds1" size_gib="0.2" usage_estimated="57.9">
+  <run id="0">
+    <operation id="0" type="write">
+      <file size="1879531"/>
+      <file path="/-1"/>
+    </operation>
+    <operation id="1" type="dir_create">
+      <dir parent="/-1"/>
+    </operation>
+    <operation id="2" type="write">
+      <file size="2692955"/>
+      <file path="/-1/0"/>
+    </operation>
+    <operation id="3" type="write">
+      <file size="1576917"/>
+      <file path="/-1"/>
+    </operation>
+    <operation id="4" type="write">
+      <file size="2897776"/>
+      <file path="/-1"/>
+    </operation>
+    <operation id="5" type="write">
+      <file size="1572878"/>
+      <file path="/-1"/>
+    </operation>
+    <operation id="6" type="delete">
+      <file value="0"/>
+      <file path="/-1"/>
+    </operation>
+    <operation id="7" type="dir_delete">
+      <dir id="0"/>
+      <dir path="/-1"/>
+    </operation>
+    <operation id="8" type="dir_create">
+      <dir parent="/-1"/>
+    </operation>
+    <operation id="9" type="write">
+      <file size="3071423"/>
+      <file path="/-1"/>
+    </operation>
+    <operation id="10" type="write">
+      <file size="1772561"/>
+      <file path="/-1/1"/>
+    </operation>
+    <operation id="11" type="dir_create">
+      <dir parent="/-1"/>
+    </operation>
+    <operation id="12" type="write">
+      <file size="2956526"/>
+      <file path="/-1/1"/>
+    </operation>
+    <operation id="13" type="dir_create">
+      <dir parent="/-1/1"/>
+    </operation>
+    <operation id="14" type="write">
+      <file size="2600989"/>
+      <file path="/-1/1/3"/>
+    </operation>
+    <operation id="15" type="write">
+      <file size="2929245"/>
+      <file path="/-1"/>
+    </operation>
+    <operation id="16" type="write">
+      <file size="2337391"/>
+      <file path="/-1/1/3"/>
+    </operation>
+    <operation id="17" type="write">
+      <file size="1176831"/>
+      <file path="/-1/1"/>
+    </operation>
+    <operation id="18" type="write">
+      <file size="2508176"/>
+      <file path="/-1/1/3"/>
+    </operation>
+    <operation id="19" type="write">
+      <file size="1151530"/>
+      <file path="/-1/1/3"/>
+    </operation>
+    <operation id="20" type="write">
+      <file size="1222274"/>
+      <file path="/-1/2"/>
+    </operation>
+    <operation id="21" type="write">
+      <file size="1277096"/>
+      <file path="/-1/2"/>
+    </operation>
+    <operation id="22" type="write">
+      <file size="3143817"/>
+      <file path="/-1"/>
+    </operation>
+    <operation id="23" type="write">
+      <file size="2898469"/>
+      <file path="/-1/1/3"/>
+    </operation>
+    <operation id="24" type="write">
+      <file size="2847811"/>
+      <file path="/-1/1"/>
+    </operation>
+    <operation id="25" type="write">
+      <file size="2662016"/>
+      <file path="/-1/1/3"/>
+    </operation>
+    <operation id="26" type="delete">
+      <file value="16"/>
+      <file path="/-1"/>
+    </operation>
+    <operation id="27" type="dir_create">
+      <dir parent="/-1/2"/>
+    </operation>
+    <operation id="28" type="write">
+      <file size="1194035"/>
+      <file path="/-1/2/4"/>
+    </operation>
+    <operation id="29" type="write">
+      <file size="1409694"/>
+      <file path="/-1/2/4"/>
+    </operation>
+    <operation id="30" type="write">
+      <file size="1470634"/>
+      <file path="/-1"/>
+    </operation>
+    <operation id="31" type="delete">
+      <file value="8"/>
+      <file path="/-1/1/3"/>
+    </operation>
+    <operation id="32" type="write">
+      <file size="1364386"/>
+      <file path="/-1"/>
+    </operation>
+    <operation id="33" type="delete">
+      <file value="2"/>
+      <file path="/-1"/>
+    </operation>
+    <operation id="34" type="write">
+      <file size="1257488"/>
+      <file path="/-1"/>
+    </operation>
+    <operation id="35" type="write">
+      <file size="2258074"/>
+      <file path="/-1"/>
+    </operation>
+    <operation id="36" type="delete">
+      <file value="21"/>
+      <file path="/-1/2/4"/>
+    </operation>
+    <operation id="37" type="write">
+      <file size="1481483"/>
+      <file path="/-1/1"/>
+    </operation>
+    <operation id="38" type="write">
+      <file size="3031894"/>
+      <file path="/-1/2/4"/>
+    </operation>
+    <operation id="39" type="write">
+      <file size="1782843"/>
+      <file path="/-1/2"/>
+    </operation>
+    <operation id="40" type="delete">
+      <file value="27"/>
+      <file path="/-1/2/4"/>
+    </operation>
+    <operation id="41" type="write">
+      <file size="1421549"/>
+      <file path="/-1/1"/>
+    </operation>
+    <operation id="42" type="delete">
+      <file value="7"/>
+      <file path="/-1/1"/>
+    </operation>
+    <operation id="43" type="write">
+      <file size="1481877"/>
+      <file path="/-1/1"/>
+    </operation>
+    <operation id="44" type="delete">
+      <file value="20"/>
+      <file path="/-1/2/4"/>
+    </operation>
+    <operation id="45" type="write">
+      <file size="1632390"/>
+      <file path="/-1/1"/>
+    </operation>
+    <operation id="46" type="dir_create">
+      <dir parent="/-1/1"/>
+    </operation>
+    <operation id="47" type="write">
+      <file size="2423896"/>
+      <file path="/-1/1/3"/>
+    </operation>
+    <operation id="48" type="write">
+      <file size="1167361"/>
+      <file path="/-1/2/4"/>
+    </operation>
+    <operation id="49" type="delete">
+      <file value="31"/>
+      <file path="/-1/1"/>
+    </operation>
+    <operation id="50" type="write">
+      <file size="2091349"/>
+      <file path="/-1/1/5"/>
+    </operation>
+    <operation id="51" type="write">
+      <file size="1885545"/>
+      <file path="/-1"/>
+    </operation>
+    <operation id="52" type="write">
+      <file size="2637262"/>
+      <file path="/-1/2/4"/>
+    </operation>
+    <operation id="53" type="write">
+      <file size="2045295"/>
+      <file path="/-1/1/5"/>
+    </operation>
+    <operation id="54" type="write">
+      <file size="1049890"/>
+      <file path="/-1"/>
+    </operation>
+    <operation id="55" type="dir_create">
+      <dir parent="/-1/1/3"/>
+    </operation>
+    <operation id="56" type="dir_delete">
+      <dir id="6"/>
+      <dir path="/-1/1/3"/>
+    </operation>
+    <operation id="57" type="dir_delete">
+      <dir id="5"/>
+      <dir path="/-1/1"/>
+    </operation>
+    <operation id="58" type="dir_create">
+      <dir parent="/-1"/>
+    </operation>
+    <operation id="59" type="write">
+      <file size="3041617"/>
+      <file path="/-1/2"/>
+    </operation>
+    <operation id="60" type="dir_create">
+      <dir parent="/-1/2"/>
+    </operation>
+    <operation id="61" type="delete">
+      <file value="32"/>
+      <file path="/-1/1/3"/>
+    </operation>
+    <operation id="62" type="dir_create">
+      <dir parent="/-1"/>
+    </operation>
+    <operation id="63" type="write">
+      <file size="1945820"/>
+      <file path="/-1/2/4"/>
+    </operation>
+    <operation id="64" type="write">
+      <file size="1685676"/>
+      <file path="/-1/1/3"/>
+    </operation>
+    <operation id="65" type="delete">
+      <file value="30"/>
+      <file path="/-1/1"/>
+    </operation>
+    <operation id="66" type="delete">
+      <file value="38"/>
+      <file path="/-1"/>
+    </operation>
+    <operation id="67" type="write">
+      <file size="1915884"/>
+      <file path="/-1/1/3"/>
+    </operation>
+    <operation id="68" type="write">
+      <file size="3080483"/>
+      <file path="/-1/7"/>
+    </operation>
+    <operation id="69" type="write">
+      <file size="2748957"/>
+      <file path="/-1/9"/>
+    </operation>
+    <operation id="70" type="dir_create">
+      <dir parent="/-1/1/3"/>
+    </operation>
+    <operation id="71" type="write">
+      <file size="1224905"/>
+      <file path="/-1/1"/>
+    </operation>
+    <operation id="72" type="write">
+      <file size="2392358"/>
+      <file path="/-1/1"/>
+    </operation>
+    <operation id="73" type="write">
+      <file size="2895338"/>
+      <file path="/-1/2/8"/>
+    </operation>
+    <operation id="74" type="write">
+      <file size="2675888"/>
+      <file path="/-1/1"/>
+    </operation>
+    <operation id="75" type="write">
+      <file size="2478952"/>
+      <file path="/-1/9"/>
+    </operation>
+    <operation id="76" type="dir_create">
+      <dir parent="/-1/1/3"/>
+    </operation>
+    <operation id="77" type="write">
+      <file size="2629671"/>
+      <file path="/-1/7"/>
+    </operation>
+    <operation id="78" type="write">
+      <file size="1962131"/>
+      <file path="/-1/7"/>
+    </operation>
+    <operation id="79" type="write">
+      <file size="2561962"/>
+      <file path="/-1"/>
+    </operation>
+    <operation id="80" type="write">
+      <file size="1674225"/>
+      <file path="/-1/9"/>
+    </operation>
+    <operation id="81" type="dir_create">
+      <dir parent="/-1/2"/>
+    </operation>
+    <operation id="82" type="write">
+      <file size="2188867"/>
+      <file path="/-1/2/12"/>
+    </operation>
+    <operation id="83" type="write">
+      <file size="2016619"/>
+      <file path="/-1/7"/>
+    </operation>
+    <operation id="84" type="write">
+      <file size="1416196"/>
+      <file path="/-1/7"/>
+    </operation>
+    <operation id="85" type="write">
+      <file size="1986374"/>
+      <file path="/-1"/>
+    </operation>
+    <operation id="86" type="write">
+      <file size="1655659"/>
+      <file path="/-1"/>
+    </operation>
+    <operation id="87" type="dir_create">
+      <dir parent="/-1"/>
+    </operation>
+    <operation id="88" type="delete">
+      <file value="36"/>
+      <file path="/-1/2/4"/>
+    </operation>
+    <operation id="89" type="write">
+      <file size="1887253"/>
+      <file path="/-1/2/4"/>
+    </operation>
+    <operation id="90" type="delete">
+      <file value="6"/>
+      <file path="/-1/1"/>
+    </operation>
+    <operation id="91" type="write">
+      <file size="3099457"/>
+      <file path="/-1/9"/>
+    </operation>
+    <operation id="92" type="write">
+      <file size="1791728"/>
+      <file path="/-1/2"/>
+    </operation>
+    <operation id="93" type="write">
+      <file size="2199831"/>
+      <file path="/-1/2"/>
+    </operation>
+    <operation id="94" type="dir_create">
+      <dir parent="/-1/1/3/10"/>
+    </operation>
+    <operation id="95" type="dir_create">
+      <dir parent="/-1/1/3/10"/>
+    </operation>
+    <operation id="96" type="write">
+      <file size="1251667"/>
+      <file path="/-1/1/3"/>
+    </operation>
+    <operation id="97" type="dir_create">
+      <dir parent="/-1/13"/>
+    </operation>
+    <operation id="98" type="write">
+      <file size="2485348"/>
+      <file path="/-1/1/3/10/15"/>
+    </operation>
+    <operation id="99" type="write">
+      <file size="3000131"/>
+      <file path="/-1/7"/>
+    </operation>
+    <operation id="100" type="write">
+      <file size="1400792"/>
+      <file path="/-1/9"/>
+    </operation>
+    <operation id="101" type="write">
+      <file size="1216188"/>
+      <file path="/-1"/>
+    </operation>
+    <operation id="102" type="write">
+      <file size="1670777"/>
+      <file path="/-1/1"/>
+    </operation>
+    <operation id="103" type="delete">
+      <file value="39"/>
+      <file path="/-1/2"/>
+    </operation>
+    <operation id="104" type="write">
+      <file size="2271756"/>
+      <file path="/-1/7"/>
+    </operation>
+    <operation id="105" type="write">
+      <file size="1472633"/>
+      <file path="/-1/1/3/10/15"/>
+    </operation>
+    <operation id="106" type="write">
+      <file size="1082853"/>
+      <file path="/-1/13"/>
+    </operation>
+    <operation id="107" type="delete">
+      <file value="13"/>
+      <file path="/-1/1/3"/>
+    </operation>
+    <operation id="108" type="write">
+      <file size="1850385"/>
+      <file path="/-1/1"/>
+    </operation>
+    <operation id="109" type="dir_create">
+      <dir parent="/-1/2/8"/>
+    </operation>
+    <operation id="110" type="write">
+      <file size="3127582"/>
+      <file path="/-1/1/3"/>
+    </operation>
+    <operation id="111" type="write">
+      <file size="2101982"/>
+      <file path="/-1/1/3/11"/>
+    </operation>
+    <operation id="112" type="dir_create">
+      <dir parent="/-1/2/12"/>
+    </operation>
+    <operation id="113" type="write">
+      <file size="1386543"/>
+      <file path="/-1"/>
+    </operation>
+    <operation id="114" type="write">
+      <file size="1607406"/>
+      <file path="/-1/2/12/18"/>
+    </operation>
+    <operation id="115" type="delete">
+      <file value="19"/>
+      <file path="/-1/1/3"/>
+    </operation>
+    <operation id="116" type="write">
+      <file size="1373714"/>
+      <file path="/-1/1"/>
+    </operation>
+    <operation id="117" type="write">
+      <file size="2558177"/>
+      <file path="/-1/1"/>
+    </operation>
+    <operation id="118" type="write">
+      <file size="1839845"/>
+      <file path="/-1/9"/>
+    </operation>
+    <operation id="119" type="dir_delete">
+      <dir id="15"/>
+      <dir path="/-1/1/3/10"/>
+    </operation>
+    <operation id="120" type="write">
+      <file size="2717831"/>
+      <file path="/-1/1/3/10"/>
+    </operation>
+    <operation id="121" type="write">
+      <file size="2468808"/>
+      <file path="/-1/1/3/11"/>
+    </operation>
+    <operation id="122" type="delete">
+      <file value="4"/>
+      <file path="/-1"/>
+    </operation>
+    <operation id="123" type="delete">
+      <file value="51"/>
+      <file path="/-1/7"/>
+    </operation>
+    <operation id="124" type="write">
+      <file size="1537787"/>
+      <file path="/-1"/>
+    </operation>
+    <operation id="125" type="write">
+      <file size="2124296"/>
+      <file path="/-1/2/12/18"/>
+    </operation>
+    <operation id="126" type="write">
+      <file size="2832389"/>
+      <file path="/-1"/>
+    </operation>
+    <operation id="127" type="write">
+      <file size="1164517"/>
+      <file path="/-1/2/8/17"/>
+    </operation>
+    <operation id="128" type="delete">
+      <file value="5"/>
+      <file path="/-1"/>
+    </operation>
+    <operation id="129" type="write">
+      <file size="1702646"/>
+      <file path="/-1/7"/>
+    </operation>
+    <operation id="130" type="write">
+      <file size="2546139"/>
+      <file path="/-1/7"/>
+    </operation>
+    <operation id="131" type="delete">
+      <file value="35"/>
+      <file path="/-1"/>
+    </operation>
+    <operation id="132" type="write">
+      <file size="2703067"/>
+      <file path="/-1/13/16"/>
+    </operation>
+    <operation id="133" type="write">
+      <file size="1929225"/>
+      <file path="/-1"/>
+    </operation>
+    <operation id="134" type="dir_delete">
+      <dir id="13"/>
+      <dir path="/-1"/>
+    </operation>
+    <operation id="135" type="write">
+      <file size="2770153"/>
+      <file path="/-1/1/3/10"/>
+    </operation>
+    <operation id="136" type="write">
+      <file size="2979412"/>
+      <file path="/-1/9"/>
+    </operation>
+    <operation id="137" type="write">
+      <file size="1080878"/>
+      <file path="/-1/2/8"/>
+    </operation>
+    <operation id="138" type="write">
+      <file size="1887955"/>
+      <file path="/-1/2/4"/>
+    </operation>
+    <operation id="139" type="write">
+      <file size="1462061"/>
+      <file path="/-1/7"/>
+    </operation>
+    <operation id="140" type="dir_create">
+      <dir parent="/-1/1/3/11"/>
+    </operation>
+    <operation id="141" type="delete">
+      <file value="91"/>
+      <file path="/-1/9"/>
+    </operation>
+    <operation id="142" type="dir_create">
+      <dir parent="/-1/1/3/10"/>
+    </operation>
+    <operation id="143" type="dir_create">
+      <dir parent="/-1/1"/>
+    </operation>
+    <operation id="144" type="write">
+      <file size="1091221"/>
+      <file path="/-1/9"/>
+    </operation>
+    <operation id="145" type="dir_create">
+      <dir parent="/-1/1/3/10"/>
+    </operation>
+    <operation id="146" type="delete">
+      <file value="68"/>
+      <file path="/-1/1"/>
+    </operation>
+    <operation id="147" type="write">
+      <file size="2956983"/>
+      <file path="/-1/1/21"/>
+    </operation>
+    <operation id="148" type="write">
+      <file size="1416413"/>
+      <file path="/-1/1/3/11"/>
+    </operation>
+    <operation id="149" type="delete">
+      <file value="40"/>
+      <file path="/-1/2/4"/>
+    </operation>
+    <operation id="150" type="write">
+      <file size="1263652"/>
+      <file path="/-1/1/3/11"/>
+    </operation>
+    <operation id="151" type="write">
+      <file size="1357261"/>
+      <file path="/-1/2/4"/>
+    </operation>
+    <operation id="152" type="write">
+      <file size="1643096"/>
+      <file path="/-1/1/3/11/19"/>
+    </operation>
+    <operation id="153" type="write">
+      <file size="2631698"/>
+      <file path="/-1/1/3/10/14"/>
+    </operation>
+    <operation id="154" type="write">
+      <file size="2721839"/>
+      <file path="/-1/2/12/18"/>
+    </operation>
+    <operation id="155" type="write">
+      <file size="1167498"/>
+      <file path="/-1/2/8"/>
+    </operation>
+    <operation id="156" type="write">
+      <file size="2923483"/>
+      <file path="/-1/2/4"/>
+    </operation>
+  </run>
+</device>
